@@ -1,0 +1,22 @@
+{
+  "name": "cl-rollup-ts",
+  "version": "1.0.0",
+  "description": "my cli for rollup and typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisLee0211/rollupTs.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "chris lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisLee0211/rollupTs/issues"
+  },
+  "homepage": "https://github.com/ChrisLee0211/rollupTs#readme"
+}
